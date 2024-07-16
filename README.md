@@ -1,4 +1,4 @@
-This project provides a basic implementation of a Dependency Injection (DI) container in PHP. 
+A simple dependency injection container written in PHP.
 
 ## Usage Example
 
